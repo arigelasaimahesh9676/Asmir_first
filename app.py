@@ -1,5 +1,5 @@
 # Python program to display all the prime numbers within an interval
-this line will get deleted
+
 lower = 900
 upper = 1000
 
